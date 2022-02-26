@@ -96,7 +96,7 @@ $('#bg-image').backstretch([
 	
 , "https://www.imagevisit.com/images/2022/02/26/Turkiye-Ukrayna.jpg "
 	
-, "https://www.imagevisit.com/images/2022/02/26/resized_8ff14-ed307a69fdfdfsdf.jpg"
+, "https://www.imagevisit.com/images/2022/02/27/780x411-baskan-erdogan-zelensky-ile-gorustu-1645538957461.jpg"
  
 
 
