@@ -94,7 +94,7 @@ $(document).ready( function(){
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2022/02/18/mustafa-kemal-ataturk-turkey-statue.jpg "
 	
-, "https://www.imagevisit.com/images/2022/02/27/650x344-ukraynada-trajik-goruntuler-cocuklarin-kiyafetlerine-yapistiriyorlar-1645623955157.jpg "
+, "https://www.imagevisit.com/images/2022/02/27/ukrayna-rusya-krizi-1554768.jpg "
 	
 , "https://www.imagevisit.com/images/2022/02/27/780x411-baskan-erdogan-zelensky-ile-gorustu-1645538957461.jpg"
  
