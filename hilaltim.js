@@ -92,11 +92,11 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-"https://www.imagevisit.com/images/2022/03/04/1fcf06210b9dff26f.jpg "
+"https://www.imagevisit.com/images/2022/03/12/20220311_173717.jpg "
 	
 , "https://www.imagevisit.com/images/2022/02/27/ukrayna-rusya-krizi-1554768.jpg "
 	
-, "https://www.imagevisit.com/images/2022/02/27/780x411-baskan-erdogan-zelensky-ile-gorustu-1645538957461.jpg"
+, "https://www.imagevisit.com/images/2022/03/12/image_downloader_1647089510609.jpg"
  
 
 
