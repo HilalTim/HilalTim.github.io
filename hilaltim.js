@@ -94,7 +94,7 @@ $(document).ready( function(){
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2022/04/13/mustafa-kemal-ataturk-turkey-statue.jpg "
 	
-, "https://www.imagevisit.com/images/2022/04/13/turk-bayragi-tumblr.jpg "
+, "https://www.imagevisit.com/images/2022/04/13/weapons-background-goal-soldiers-wallpaper-preview.jpg "
 	
 , "https://www.imagevisit.com/images/2022/04/13/thumb-1920-202113.jpg"
  
