@@ -94,7 +94,7 @@ $(document).ready( function(){
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2022/04/13/mustafa-kemal-ataturk-turkey-statue.jpg "
 	
-, "https://www.imagevisit.com/images/2022/04/13/video-games-medal-of-honor-medal-of-honor-warfighter-wallpaper-preview.jpg "
+, "https://www.imagevisit.com/images/2022/04/13/57b464e644933f33f5cb3f91bdbadb3d.png "
 	
 , "https://www.imagevisit.com/images/2022/04/13/thumb-1920-202113.jpg"
  
