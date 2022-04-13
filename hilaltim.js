@@ -94,7 +94,7 @@ $(document).ready( function(){
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2022/04/13/mustafa-kemal-ataturk-turkey-statue.jpg "
 	
-, "https://www.imagevisit.com/images/2022/04/13/ab512e8dea5493fad702f2a9e8c943dc.jpg "
+, "https://www.imagevisit.com/images/2022/04/13/28-288257_m.jpg "
 	
 , "https://www.imagevisit.com/images/2022/04/13/thumb-1920-202113.jpg"
  
