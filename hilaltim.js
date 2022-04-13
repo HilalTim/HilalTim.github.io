@@ -92,11 +92,11 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-"https://www.imagevisit.com/images/2022/03/12/20220311_173717.jpg "
+"https://www.imagevisit.com/images/2022/04/13/mustafa-kemal-ataturk-turkey-statue.jpg "
 	
-, "https://www.imagevisit.com/images/2022/02/27/ukrayna-rusya-krizi-1554768.jpg "
+, "https://www.imagevisit.com/images/2022/04/13/turkish-turkey-turkish-armed-forces-hd-wallpaper-preview.jpg "
 	
-, "https://www.imagevisit.com/images/2022/03/12/image_downloader_1647089510609.jpg"
+, "https://www.imagevisit.com/images/2022/04/13/thumb-1920-202113.jpg"
  
 
 
