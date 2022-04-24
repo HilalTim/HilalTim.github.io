@@ -96,7 +96,7 @@ $('#bg-image').backstretch([
 	
 , "https://www.imagevisit.com/images/2022/04/13/57b464e644933f33f5cb3f91bdbadb3d.png "
 	
-, "https://www.imagevisit.com/images/2022/04/13/war-battlefield-soldier-weapon-wallpaper-thumb.jpg"
+, "https://www.imagevisit.com/images/2022/04/24/soldier-in-camouflage-shirt-wallpaper.jpg"
 
 , "https://www.imagevisit.com/images/2022/04/24/rtr1ciu3.jpg"	
  
