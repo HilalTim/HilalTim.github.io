@@ -92,7 +92,7 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-"https://www.imagevisit.com/images/2022/07/15/15-temmuz-1-aa-1_16_9_1531377244.jpg "
+"https://www.imagevisit.com/images/2022/07/15/15-temmuz-qg6N_cover.jpg "
 	
 , "https://www.imagevisit.com/images/2022/07/15/15-temmuz-hain-darbe-girisiminin-4-yil-donumunde-13420920_7938_m.jpg "
 	
