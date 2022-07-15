@@ -94,7 +94,7 @@ $(document).ready( function(){
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2022/07/15/1039166.jpg "
 	
-, "https://www.imagevisit.com/images/2022/07/15/15-temmuz-hain-darbe-girisiminin-4-yil-donumunde-13420920_7938_m.jpg "
+, "https://www.imagevisit.com/images/2022/04/13/57b464e644933f33f5cb3f91bdbadb3d.png "
 	
 , "https://www.imagevisit.com/images/2022/04/24/istockphoto-538645657-612x612.jpg"
 
