@@ -92,7 +92,7 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-"https://www.imagevisit.com/images/2022/07/15/1039166.jpg "
+"https://i.hizliresim.com/sdp4rbl.jpg "
 	
 , "https://www.imagevisit.com/images/2022/04/13/57b464e644933f33f5cb3f91bdbadb3d.png "
 	
