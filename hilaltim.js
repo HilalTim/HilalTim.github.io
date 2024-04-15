@@ -94,7 +94,7 @@ $(document).ready( function(){
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2024/04/15/turkey-flag-ai-generated_724044-666.md.jpg "
 	
-, "https://www.imagevisit.com/images/2022/04/13/57b464e644933f33f5cb3f91bdbadb3d.png "
+, "https://www.imagevisit.com/images/2024/04/15/81946a52ed7dc6bfda560e0af324fc8d.md.png "
 	
 , "https://www.imagevisit.com/images/2022/04/24/istockphoto-538645657-612x612.jpg"
 
