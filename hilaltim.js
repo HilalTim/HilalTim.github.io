@@ -92,7 +92,7 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-"https://i.hizliresim.com/sdp4rbl.jpg "
+"https://www.imagevisit.com/images/2024/04/15/turkey-flag-ai-generated_724044-666.md.jpg "
 	
 , "https://www.imagevisit.com/images/2022/04/13/57b464e644933f33f5cb3f91bdbadb3d.png "
 	
