@@ -96,7 +96,7 @@ $('#bg-image').backstretch([
 	
 , "https://www.imagevisit.com/images/2024/04/15/81946a52ed7dc6bfda560e0af324fc8d.md.png "
 	
-, "https://www.imagevisit.com/images/2022/04/24/istockphoto-538645657-612x612.jpg"
+, "https://www.imagevisit.com/images/2024/04/15/desktop-wallpaper-turk.md.jpg"
 
 , "https://www.imagevisit.com/images/2022/04/24/rtr1ciu3.jpg"	
  
