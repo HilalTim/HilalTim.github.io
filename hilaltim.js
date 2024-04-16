@@ -96,7 +96,7 @@ $('#bg-image').backstretch([
 	
 , "https://www.imagevisit.com/images/2024/04/16/netlestirilmis.md.jpg "
 	
-, "https://www.imagevisit.com/images/2024/04/16/ataturk_by_dumann05_dayn604.md.jpg"
+, "https://www.imagevisit.com/images/2024/04/16/2.md.jpg"
 
 , "https://www.imagevisit.com/images/2022/04/24/rtr1ciu3.jpg"	
  
