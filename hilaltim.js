@@ -96,7 +96,7 @@ $('#bg-image').backstretch([
 	
 , "https://www.imagevisit.com/images/2024/04/16/netlestirilmis.jpg "
 	
-, "https://www.imagevisit.com/images/2024/04/16/2.jpg"
+, "https://cdn.imagevisit.com/2025/01/14/ddqmb36-5373d1b1-ef39-4796-bcb9-a76fa58a58e1.jpg"
 
 , "https://www.imagevisit.com/images/2022/04/24/rtr1ciu3.jpg"	
  
