@@ -98,7 +98,9 @@ $('#bg-image').backstretch([
 	
 , "https://cdn.imagevisit.com/2025/01/14/ddqmb36-5373d1b1-ef39-4796-bcb9-a76fa58a58e1.jpg"
 
-, "https://cdn.imagevisit.com/2025/01/14/ddt4qin-9022c423-27e3-4bea-bcaf-41685c2a62a8.jpg"	
+, "https://cdn.imagevisit.com/2025/01/14/ddt4qin-9022c423-27e3-4bea-bcaf-41685c2a62a8.jpg"
+
+, "https://cdn.imagevisit.com/2025/01/14/dcxdojb-5dd0c9b3-e7ee-461f-af13-45be39bd0c04.jpg"
  
 
 
