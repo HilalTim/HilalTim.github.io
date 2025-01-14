@@ -101,6 +101,8 @@ $('#bg-image').backstretch([
 , "https://cdn.imagevisit.com/2025/01/14/ddt4qin-9022c423-27e3-4bea-bcaf-41685c2a62a8.jpg"
 
 , "https://cdn.imagevisit.com/2025/01/14/dcxdojb-5dd0c9b3-e7ee-461f-af13-45be39bd0c04.jpg"
+
+, "https://cdn.imagevisit.com/2025/01/14/hello_admin_system_hacked__by_axoy_wgt_dd28nkf-fullview.jpg"
  
 
 
