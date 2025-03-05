@@ -98,7 +98,7 @@ $('#bg-image').backstretch([
 	
 , "https://cdn.imagevisit.com/2025/03/05/Adsiz-tasarim-1.png"
 
-, "https://cdn.imagevisit.com/2025/01/14/ddt4qin-9022c423-27e3-4bea-bcaf-41685c2a62a8.jpg"
+, "https://cdn.imagevisit.com/2025/03/05/Adsiz-tasarim-11f9fc393c3badc46.png"
 
 , "https://cdn.imagevisit.com/2025/01/14/dcyf3ek-af8741cc-8099-4545-86c4-22c75e123401.jpg"
 
