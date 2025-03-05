@@ -92,7 +92,7 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-"https://cdn.imagevisit.com/2025/01/14/ddqu06p-25cf23a1-43c1-4e9b-874e-58224ae87f00.jpg"
+"https://cdn.imagevisit.com/2025/03/05/Adsiz-tasarim-142e3a94fd9c4722c.png"
 	
 , "https://www.imagevisit.com/images/2024/04/16/netlestirilmis.jpg "
 	
